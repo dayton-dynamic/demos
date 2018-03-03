@@ -1,0 +1,9 @@
+(hamlet 5:2) fortinbras: Let four captains
+[p]Bear Hamlet like a soldier to the stage;
+[p]For he was likely, had he been put on,
+[p]To have prov'd most royally; and for his passage
+[p]The soldiers' music and the rites of war
+[p]Speak loudly for him.
+[p]Take up the bodies. Such a sight as this
+[p]Becomes the field but here shows much amiss.
+[p]Go, bid the soldiers shoot.

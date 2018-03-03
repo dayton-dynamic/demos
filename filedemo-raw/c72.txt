@@ -1,0 +1,6 @@
+(hamlet 5:2) ambassador: The sight is dismal;
+[p]And our affairs from England come too late. 
+[p]The ears are senseless that should give us hearing
+[p]To tell him his commandment is fulfill'd
+[p]That Rosencrantz and Guildenstern are dead.
+[p]Where should we have our thanks?

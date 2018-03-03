@@ -1,0 +1,5 @@
+(hamlet 5:2) horatio: Now cracks a noble heart. Good night, sweet prince,
+[p]And flights of angels sing thee to thy rest!
+[p][March within.]
+[p]Why does the drum come hither?
+[p]Enter Fortinbras and English Ambassadors, with Drum, Colours, and Attendants.

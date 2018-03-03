@@ -1,0 +1,3 @@
+(merchantvenice 1:3) Antonio-mv: Hie thee, gentle Jew.
+[p][Exit Shylock]
+[p]The Hebrew will turn Christian: he grows kind.

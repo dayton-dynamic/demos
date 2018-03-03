@@ -1,0 +1,5 @@
+(hamlet 5:2) horatio: Of that I shall have also cause to speak,
+[p]And from his mouth whose voice will draw on more.
+[p]But let this same be presently perform'd,
+[p]Even while men's minds are wild, lest more mischance
+[p]On plots and errors happen.

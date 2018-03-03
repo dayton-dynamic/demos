@@ -1,0 +1,4 @@
+(hamlet 5:2) fortinbras: This quarry cries on havoc. O proud Death,
+[p]What feast is toward in thine eternal cell
+[p]That thou so many princes at a shot
+[p]So bloodily hast struck.

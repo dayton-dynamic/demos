@@ -1,0 +1,5 @@
+(hamlet 5:2) fortinbras: Let us haste to hear it, 
+[p]And call the noblest to the audience.
+[p]For me, with sorrow I embrace my fortune.
+[p]I have some rights of memory in this kingdom
+[p]Which now, to claim my vantage doth invite me.

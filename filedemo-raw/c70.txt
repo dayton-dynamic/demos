@@ -1,0 +1,2 @@
+(hamlet 5:2) horatio: What is it you will see?
+[p]If aught of woe or wonder, cease your search.
